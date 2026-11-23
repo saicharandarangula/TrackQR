@@ -1,0 +1,25 @@
+{
+  "name": "trackqr-backend",
+  "version": "1.0.0",
+  "description": "Backend API and SQLite database for TrackQR - QR-Based Inventory Tracker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "inventory",
+    "tracker",
+    "qr",
+    "express",
+    "sqlite"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}

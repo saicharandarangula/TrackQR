@@ -1,0 +1,1506 @@
+[
+  {
+    "tag": "symbol",
+    "id": "icon-dashboard"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-devices"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-stock"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-scanner"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-transactions"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-maintenance"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-activity"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-categories"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-settings"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-plus"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-search"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-filter"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-download"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-print"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-camera"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-stop"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-check"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-edit"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-trash"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-close"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-alert"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-qr"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-moon"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-sun"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-menu"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-stock-in"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-stock-out"
+  },
+  {
+    "tag": "symbol",
+    "id": "icon-return"
+  },
+  {
+    "tag": "div",
+    "id": "sidebarOverlay"
+  },
+  {
+    "tag": "aside",
+    "id": "sidebar"
+  },
+  {
+    "tag": "span",
+    "id": "navDevicesCount"
+  },
+  {
+    "tag": "span",
+    "id": "navStockAlertCount"
+  },
+  {
+    "tag": "span",
+    "id": "navMaintenanceCount"
+  },
+  {
+    "tag": "small",
+    "id": "storageItemCount"
+  },
+  {
+    "tag": "button",
+    "id": "themeToggleBtn"
+  },
+  {
+    "tag": "button",
+    "id": "mobileMenuBtn"
+  },
+  {
+    "tag": "span",
+    "id": "pageBreadcrumb"
+  },
+  {
+    "tag": "h1",
+    "id": "pageTitle"
+  },
+  {
+    "tag": "button",
+    "id": "topbarScanBtn"
+  },
+  {
+    "tag": "button",
+    "id": "topbarAddDeviceBtn"
+  },
+  {
+    "tag": "button",
+    "id": "topbarAddStockBtn"
+  },
+  {
+    "tag": "button",
+    "id": "topbarStockMovementBtn"
+  },
+  {
+    "tag": "div",
+    "id": "tab-dashboard"
+  },
+  {
+    "tag": "h2",
+    "id": "welcomeHeading"
+  },
+  {
+    "tag": "p",
+    "id": "welcomeSubtext"
+  },
+  {
+    "tag": "div",
+    "id": "currentDateDisplay"
+  },
+  {
+    "tag": "div",
+    "id": "dashAlertBanner"
+  },
+  {
+    "tag": "h4",
+    "id": "dashAlertBannerHeading"
+  },
+  {
+    "tag": "p",
+    "id": "dashAlertBannerText"
+  },
+  {
+    "tag": "button",
+    "id": "dashReviewAlertsBtn"
+  },
+  {
+    "tag": "h2",
+    "id": "dashTotalDevices"
+  },
+  {
+    "tag": "h2",
+    "id": "dashInUseDevices"
+  },
+  {
+    "tag": "h2",
+    "id": "dashMaintenanceDevices"
+  },
+  {
+    "tag": "h2",
+    "id": "dashTotalStockItems"
+  },
+  {
+    "tag": "h2",
+    "id": "dashTotalStockQty"
+  },
+  {
+    "tag": "h2",
+    "id": "dashStockAlerts"
+  },
+  {
+    "tag": "span",
+    "id": "dashStockAlertSub"
+  },
+  {
+    "tag": "button",
+    "id": "dashViewAllTxnBtn"
+  },
+  {
+    "tag": "tbody",
+    "id": "dashRecentTransactionsTable"
+  },
+  {
+    "tag": "button",
+    "id": "dashAddDeviceBtn"
+  },
+  {
+    "tag": "button",
+    "id": "dashAddStockItemBtn"
+  },
+  {
+    "tag": "button",
+    "id": "dashExecuteStockInBtn"
+  },
+  {
+    "tag": "button",
+    "id": "dashExecuteStockOutBtn"
+  },
+  {
+    "tag": "button",
+    "id": "dashOpenScannerBtn"
+  },
+  {
+    "tag": "button",
+    "id": "dashManageCategoriesBtn"
+  },
+  {
+    "tag": "div",
+    "id": "dashCategoryBars"
+  },
+  {
+    "tag": "button",
+    "id": "dashViewAllActivityBtn"
+  },
+  {
+    "tag": "div",
+    "id": "dashRecentActivityList"
+  },
+  {
+    "tag": "div",
+    "id": "tab-devices"
+  },
+  {
+    "tag": "button",
+    "id": "deviceExportBtn"
+  },
+  {
+    "tag": "button",
+    "id": "deviceAddBtn"
+  },
+  {
+    "tag": "input",
+    "id": "deviceSearchInput"
+  },
+  {
+    "tag": "button",
+    "id": "deviceClearSearchBtn"
+  },
+  {
+    "tag": "select",
+    "id": "deviceFilterCategory"
+  },
+  {
+    "tag": "select",
+    "id": "deviceFilterStatus"
+  },
+  {
+    "tag": "select",
+    "id": "deviceFilterCondition"
+  },
+  {
+    "tag": "select",
+    "id": "deviceFilterSort"
+  },
+  {
+    "tag": "button",
+    "id": "deviceFilterResetBtn"
+  },
+  {
+    "tag": "span",
+    "id": "deviceResultsCount"
+  },
+  {
+    "tag": "div",
+    "id": "deviceFilterTags"
+  },
+  {
+    "tag": "tbody",
+    "id": "deviceTableBody"
+  },
+  {
+    "tag": "div",
+    "id": "deviceEmptyState"
+  },
+  {
+    "tag": "p",
+    "id": "deviceEmptyText"
+  },
+  {
+    "tag": "button",
+    "id": "deviceEmptyAddBtn"
+  },
+  {
+    "tag": "div",
+    "id": "tab-stock-items"
+  },
+  {
+    "tag": "button",
+    "id": "stockMoveBtn"
+  },
+  {
+    "tag": "button",
+    "id": "stockExportBtn"
+  },
+  {
+    "tag": "button",
+    "id": "stockAddBtn"
+  },
+  {
+    "tag": "h2",
+    "id": "stockKpiTotalItems"
+  },
+  {
+    "tag": "h2",
+    "id": "stockKpiTotalUnits"
+  },
+  {
+    "tag": "h2",
+    "id": "stockKpiLowCount"
+  },
+  {
+    "tag": "h2",
+    "id": "stockKpiOutCount"
+  },
+  {
+    "tag": "input",
+    "id": "stockSearchInput"
+  },
+  {
+    "tag": "button",
+    "id": "stockClearSearchBtn"
+  },
+  {
+    "tag": "select",
+    "id": "stockFilterCategory"
+  },
+  {
+    "tag": "select",
+    "id": "stockFilterLevel"
+  },
+  {
+    "tag": "select",
+    "id": "stockFilterSort"
+  },
+  {
+    "tag": "button",
+    "id": "stockFilterResetBtn"
+  },
+  {
+    "tag": "span",
+    "id": "stockResultsCount"
+  },
+  {
+    "tag": "div",
+    "id": "stockFilterTags"
+  },
+  {
+    "tag": "tbody",
+    "id": "stockTableBody"
+  },
+  {
+    "tag": "div",
+    "id": "stockEmptyState"
+  },
+  {
+    "tag": "p",
+    "id": "stockEmptyText"
+  },
+  {
+    "tag": "button",
+    "id": "stockEmptyAddBtn"
+  },
+  {
+    "tag": "div",
+    "id": "tab-scanner"
+  },
+  {
+    "tag": "div",
+    "id": "scannerSecurityBanner"
+  },
+  {
+    "tag": "select",
+    "id": "cameraDeviceSelect"
+  },
+  {
+    "tag": "button",
+    "id": "startScannerBtn"
+  },
+  {
+    "tag": "button",
+    "id": "stopScannerBtn"
+  },
+  {
+    "tag": "div",
+    "id": "qrReader"
+  },
+  {
+    "tag": "div",
+    "id": "scannerOverlayBox"
+  },
+  {
+    "tag": "div",
+    "id": "scannerIdlePlaceholder"
+  },
+  {
+    "tag": "div",
+    "id": "scannerStatusStrip"
+  },
+  {
+    "tag": "span",
+    "id": "scannerStatusDot"
+  },
+  {
+    "tag": "span",
+    "id": "scannerStatusMessage"
+  },
+  {
+    "tag": "div",
+    "id": "qrFileDropzone"
+  },
+  {
+    "tag": "input",
+    "id": "qrFileInput"
+  },
+  {
+    "tag": "form",
+    "id": "manualLookupForm"
+  },
+  {
+    "tag": "input",
+    "id": "manualAssetIdInput"
+  },
+  {
+    "tag": "button",
+    "id": "manualLookupBtn"
+  },
+  {
+    "tag": "div",
+    "id": "sampleLookupTags"
+  },
+  {
+    "tag": "div",
+    "id": "scannedResultPanel"
+  },
+  {
+    "tag": "span",
+    "id": "scannedResultBadge"
+  },
+  {
+    "tag": "div",
+    "id": "scannedEmptyMessage"
+  },
+  {
+    "tag": "div",
+    "id": "scannedDeviceDetails"
+  },
+  {
+    "tag": "span",
+    "id": "scannedDeviceId"
+  },
+  {
+    "tag": "h2",
+    "id": "scannedDeviceName"
+  },
+  {
+    "tag": "p",
+    "id": "scannedDeviceCategory"
+  },
+  {
+    "tag": "div",
+    "id": "scannedDeviceStatus"
+  },
+  {
+    "tag": "span",
+    "id": "scannedDeviceSerial"
+  },
+  {
+    "tag": "span",
+    "id": "scannedDeviceLocation"
+  },
+  {
+    "tag": "span",
+    "id": "scannedDeviceAssigned"
+  },
+  {
+    "tag": "span",
+    "id": "scannedDeviceCondition"
+  },
+  {
+    "tag": "div",
+    "id": "scannedDeviceMaintSection"
+  },
+  {
+    "tag": "div",
+    "id": "scannedDeviceMaintList"
+  },
+  {
+    "tag": "button",
+    "id": "scanDevSetAvailableBtn"
+  },
+  {
+    "tag": "button",
+    "id": "scanDevSetInUseBtn"
+  },
+  {
+    "tag": "button",
+    "id": "scanDevSetMaintBtn"
+  },
+  {
+    "tag": "button",
+    "id": "scanDevPassportBtn"
+  },
+  {
+    "tag": "button",
+    "id": "scanDevScheduleMaintBtn"
+  },
+  {
+    "tag": "div",
+    "id": "scannedStockDetails"
+  },
+  {
+    "tag": "span",
+    "id": "scannedStockId"
+  },
+  {
+    "tag": "h2",
+    "id": "scannedStockName"
+  },
+  {
+    "tag": "p",
+    "id": "scannedStockCategory"
+  },
+  {
+    "tag": "div",
+    "id": "scannedStockStatus"
+  },
+  {
+    "tag": "span",
+    "id": "scannedStockAvailable"
+  },
+  {
+    "tag": "span",
+    "id": "scannedStockMinLevel"
+  },
+  {
+    "tag": "span",
+    "id": "scannedStockLocation"
+  },
+  {
+    "tag": "span",
+    "id": "scannedStockUnit"
+  },
+  {
+    "tag": "span",
+    "id": "scannedStockCost"
+  },
+  {
+    "tag": "span",
+    "id": "scannedStockSupplier"
+  },
+  {
+    "tag": "button",
+    "id": "scanStockInBtn"
+  },
+  {
+    "tag": "button",
+    "id": "scanStockOutBtn"
+  },
+  {
+    "tag": "button",
+    "id": "scanStockReturnBtn"
+  },
+  {
+    "tag": "button",
+    "id": "scanStockTagBtn"
+  },
+  {
+    "tag": "div",
+    "id": "scannedUnknownAlert"
+  },
+  {
+    "tag": "h4",
+    "id": "unknownScannedIdTitle"
+  },
+  {
+    "tag": "p",
+    "id": "unknownScannedIdMessage"
+  },
+  {
+    "tag": "button",
+    "id": "scannedCreateDeviceBtn"
+  },
+  {
+    "tag": "button",
+    "id": "scannedCreateStockBtn"
+  },
+  {
+    "tag": "div",
+    "id": "scannerSessionHistory"
+  },
+  {
+    "tag": "div",
+    "id": "tab-stock-transactions"
+  },
+  {
+    "tag": "button",
+    "id": "txExportBtn"
+  },
+  {
+    "tag": "button",
+    "id": "tabBtnStockIn"
+  },
+  {
+    "tag": "button",
+    "id": "tabBtnStockOut"
+  },
+  {
+    "tag": "button",
+    "id": "tabBtnStockReturn"
+  },
+  {
+    "tag": "div",
+    "id": "panelStockIn"
+  },
+  {
+    "tag": "form",
+    "id": "formStockIn"
+  },
+  {
+    "tag": "select",
+    "id": "inStockItemSelect"
+  },
+  {
+    "tag": "input",
+    "id": "inQuantity"
+  },
+  {
+    "tag": "input",
+    "id": "inDate"
+  },
+  {
+    "tag": "input",
+    "id": "inSupplier"
+  },
+  {
+    "tag": "input",
+    "id": "inReference"
+  },
+  {
+    "tag": "input",
+    "id": "inNotes"
+  },
+  {
+    "tag": "div",
+    "id": "inCalcPreview"
+  },
+  {
+    "tag": "span",
+    "id": "inPrevStockDisplay"
+  },
+  {
+    "tag": "span",
+    "id": "inNewStockDisplay"
+  },
+  {
+    "tag": "button",
+    "id": "btnSubmitStockIn"
+  },
+  {
+    "tag": "div",
+    "id": "panelStockOut"
+  },
+  {
+    "tag": "form",
+    "id": "formStockOut"
+  },
+  {
+    "tag": "select",
+    "id": "outStockItemSelect"
+  },
+  {
+    "tag": "input",
+    "id": "outQuantity"
+  },
+  {
+    "tag": "div",
+    "id": "outQuantityError"
+  },
+  {
+    "tag": "input",
+    "id": "outDate"
+  },
+  {
+    "tag": "input",
+    "id": "outRecipient"
+  },
+  {
+    "tag": "input",
+    "id": "outPurpose"
+  },
+  {
+    "tag": "input",
+    "id": "outReference"
+  },
+  {
+    "tag": "input",
+    "id": "outNotes"
+  },
+  {
+    "tag": "div",
+    "id": "outCalcPreview"
+  },
+  {
+    "tag": "span",
+    "id": "outPrevStockDisplay"
+  },
+  {
+    "tag": "span",
+    "id": "outNewStockDisplay"
+  },
+  {
+    "tag": "button",
+    "id": "btnSubmitStockOut"
+  },
+  {
+    "tag": "div",
+    "id": "panelStockReturn"
+  },
+  {
+    "tag": "form",
+    "id": "formStockReturn"
+  },
+  {
+    "tag": "select",
+    "id": "returnStockItemSelect"
+  },
+  {
+    "tag": "input",
+    "id": "returnQuantity"
+  },
+  {
+    "tag": "input",
+    "id": "returnDate"
+  },
+  {
+    "tag": "input",
+    "id": "returnBy"
+  },
+  {
+    "tag": "input",
+    "id": "returnReference"
+  },
+  {
+    "tag": "input",
+    "id": "returnNotes"
+  },
+  {
+    "tag": "div",
+    "id": "returnCalcPreview"
+  },
+  {
+    "tag": "span",
+    "id": "returnPrevStockDisplay"
+  },
+  {
+    "tag": "span",
+    "id": "returnNewStockDisplay"
+  },
+  {
+    "tag": "button",
+    "id": "btnSubmitStockReturn"
+  },
+  {
+    "tag": "input",
+    "id": "txSearchInput"
+  },
+  {
+    "tag": "button",
+    "id": "txClearSearchBtn"
+  },
+  {
+    "tag": "select",
+    "id": "txFilterType"
+  },
+  {
+    "tag": "select",
+    "id": "txFilterItem"
+  },
+  {
+    "tag": "button",
+    "id": "txFilterResetBtn"
+  },
+  {
+    "tag": "tbody",
+    "id": "transactionsTableBody"
+  },
+  {
+    "tag": "div",
+    "id": "transactionsEmptyState"
+  },
+  {
+    "tag": "div",
+    "id": "tab-maintenance"
+  },
+  {
+    "tag": "button",
+    "id": "maintenanceAddBtn"
+  },
+  {
+    "tag": "h2",
+    "id": "maintActiveCount"
+  },
+  {
+    "tag": "h2",
+    "id": "maintCompletedCount"
+  },
+  {
+    "tag": "h2",
+    "id": "maintTotalCost"
+  },
+  {
+    "tag": "input",
+    "id": "maintenanceSearchInput"
+  },
+  {
+    "tag": "select",
+    "id": "filterMaintStatus"
+  },
+  {
+    "tag": "select",
+    "id": "filterMaintType"
+  },
+  {
+    "tag": "tbody",
+    "id": "maintenanceTableBody"
+  },
+  {
+    "tag": "div",
+    "id": "maintenanceEmptyState"
+  },
+  {
+    "tag": "button",
+    "id": "maintenanceEmptyAddBtn"
+  },
+  {
+    "tag": "div",
+    "id": "tab-activity"
+  },
+  {
+    "tag": "button",
+    "id": "activityExportBtn"
+  },
+  {
+    "tag": "button",
+    "id": "activityClearBtn"
+  },
+  {
+    "tag": "input",
+    "id": "activitySearchInput"
+  },
+  {
+    "tag": "select",
+    "id": "filterActivityType"
+  },
+  {
+    "tag": "div",
+    "id": "fullActivityLogList"
+  },
+  {
+    "tag": "div",
+    "id": "activityEmptyState"
+  },
+  {
+    "tag": "div",
+    "id": "tab-categories"
+  },
+  {
+    "tag": "button",
+    "id": "categoryAddBtn"
+  },
+  {
+    "tag": "button",
+    "id": "catFilterAll"
+  },
+  {
+    "tag": "button",
+    "id": "catFilterDevices"
+  },
+  {
+    "tag": "button",
+    "id": "catFilterStock"
+  },
+  {
+    "tag": "div",
+    "id": "categoriesGrid"
+  },
+  {
+    "tag": "div",
+    "id": "tab-settings"
+  },
+  {
+    "tag": "form",
+    "id": "generalSettingsForm"
+  },
+  {
+    "tag": "input",
+    "id": "settingOrgName"
+  },
+  {
+    "tag": "select",
+    "id": "settingCurrency"
+  },
+  {
+    "tag": "form",
+    "id": "scannerSettingsForm"
+  },
+  {
+    "tag": "input",
+    "id": "settingSoundToggle"
+  },
+  {
+    "tag": "input",
+    "id": "settingAutoOpenModal"
+  },
+  {
+    "tag": "select",
+    "id": "settingScanCooldown"
+  },
+  {
+    "tag": "button",
+    "id": "exportBackupBtn"
+  },
+  {
+    "tag": "input",
+    "id": "importBackupInput"
+  },
+  {
+    "tag": "button",
+    "id": "importBackupTriggerBtn"
+  },
+  {
+    "tag": "button",
+    "id": "resetDemoDataBtn"
+  },
+  {
+    "tag": "button",
+    "id": "wipeAllDataBtn"
+  },
+  {
+    "tag": "div",
+    "id": "deviceModal"
+  },
+  {
+    "tag": "h3",
+    "id": "deviceModalTitle"
+  },
+  {
+    "tag": "button",
+    "id": "closeDeviceModalBtn"
+  },
+  {
+    "tag": "form",
+    "id": "deviceModalForm"
+  },
+  {
+    "tag": "input",
+    "id": "deviceFormMode"
+  },
+  {
+    "tag": "input",
+    "id": "deviceFormOriginalId"
+  },
+  {
+    "tag": "input",
+    "id": "inputDeviceName"
+  },
+  {
+    "tag": "div",
+    "id": "errorDeviceName"
+  },
+  {
+    "tag": "select",
+    "id": "inputDeviceCategory"
+  },
+  {
+    "tag": "div",
+    "id": "errorDeviceCategory"
+  },
+  {
+    "tag": "input",
+    "id": "inputDeviceId"
+  },
+  {
+    "tag": "button",
+    "id": "regenerateDeviceIdBtn"
+  },
+  {
+    "tag": "div",
+    "id": "errorDeviceId"
+  },
+  {
+    "tag": "input",
+    "id": "inputDeviceSerial"
+  },
+  {
+    "tag": "div",
+    "id": "errorDeviceSerial"
+  },
+  {
+    "tag": "input",
+    "id": "inputDeviceLocation"
+  },
+  {
+    "tag": "div",
+    "id": "errorDeviceLocation"
+  },
+  {
+    "tag": "select",
+    "id": "inputDeviceStatus"
+  },
+  {
+    "tag": "select",
+    "id": "inputDeviceCondition"
+  },
+  {
+    "tag": "input",
+    "id": "inputDeviceDate"
+  },
+  {
+    "tag": "input",
+    "id": "inputDeviceCost"
+  },
+  {
+    "tag": "input",
+    "id": "inputDeviceAssigned"
+  },
+  {
+    "tag": "textarea",
+    "id": "inputDeviceNotes"
+  },
+  {
+    "tag": "button",
+    "id": "cancelDeviceModalBtn"
+  },
+  {
+    "tag": "button",
+    "id": "saveDeviceSubmitBtn"
+  },
+  {
+    "tag": "div",
+    "id": "stockModal"
+  },
+  {
+    "tag": "h3",
+    "id": "stockModalTitle"
+  },
+  {
+    "tag": "button",
+    "id": "closeStockModalBtn"
+  },
+  {
+    "tag": "form",
+    "id": "stockModalForm"
+  },
+  {
+    "tag": "input",
+    "id": "stockFormMode"
+  },
+  {
+    "tag": "input",
+    "id": "stockFormOriginalId"
+  },
+  {
+    "tag": "input",
+    "id": "inputStockName"
+  },
+  {
+    "tag": "div",
+    "id": "errorStockName"
+  },
+  {
+    "tag": "select",
+    "id": "inputStockCategory"
+  },
+  {
+    "tag": "div",
+    "id": "errorStockCategory"
+  },
+  {
+    "tag": "input",
+    "id": "inputStockId"
+  },
+  {
+    "tag": "button",
+    "id": "regenerateStockIdBtn"
+  },
+  {
+    "tag": "div",
+    "id": "errorStockId"
+  },
+  {
+    "tag": "input",
+    "id": "inputStockQuantity"
+  },
+  {
+    "tag": "div",
+    "id": "errorStockQuantity"
+  },
+  {
+    "tag": "input",
+    "id": "inputStockMinLevel"
+  },
+  {
+    "tag": "select",
+    "id": "inputStockUnit"
+  },
+  {
+    "tag": "input",
+    "id": "inputStockLocation"
+  },
+  {
+    "tag": "input",
+    "id": "inputStockUnitCost"
+  },
+  {
+    "tag": "input",
+    "id": "inputStockSupplier"
+  },
+  {
+    "tag": "textarea",
+    "id": "inputStockNotes"
+  },
+  {
+    "tag": "button",
+    "id": "cancelStockModalBtn"
+  },
+  {
+    "tag": "button",
+    "id": "saveStockSubmitBtn"
+  },
+  {
+    "tag": "div",
+    "id": "stockMovementModal"
+  },
+  {
+    "tag": "h3",
+    "id": "quickMoveModalTitle"
+  },
+  {
+    "tag": "button",
+    "id": "closeQuickMoveModalBtn"
+  },
+  {
+    "tag": "form",
+    "id": "quickMoveForm"
+  },
+  {
+    "tag": "input",
+    "id": "quickMoveStockItemId"
+  },
+  {
+    "tag": "div",
+    "id": "quickMoveItemName"
+  },
+  {
+    "tag": "small",
+    "id": "quickMoveItemMeta"
+  },
+  {
+    "tag": "select",
+    "id": "quickMoveType"
+  },
+  {
+    "tag": "input",
+    "id": "quickMoveQty"
+  },
+  {
+    "tag": "div",
+    "id": "quickMoveQtyError"
+  },
+  {
+    "tag": "label",
+    "id": "quickMovePartyLabel"
+  },
+  {
+    "tag": "input",
+    "id": "quickMoveParty"
+  },
+  {
+    "tag": "input",
+    "id": "quickMoveRef"
+  },
+  {
+    "tag": "input",
+    "id": "quickMoveNotes"
+  },
+  {
+    "tag": "div",
+    "id": "quickMoveCalcPreview"
+  },
+  {
+    "tag": "span",
+    "id": "quickMovePrevStock"
+  },
+  {
+    "tag": "span",
+    "id": "quickMoveNewStock"
+  },
+  {
+    "tag": "button",
+    "id": "cancelQuickMoveBtn"
+  },
+  {
+    "tag": "button",
+    "id": "submitQuickMoveBtn"
+  },
+  {
+    "tag": "div",
+    "id": "qrPassportModal"
+  },
+  {
+    "tag": "span",
+    "id": "passportEyebrow"
+  },
+  {
+    "tag": "h3",
+    "id": "passportModalTitle"
+  },
+  {
+    "tag": "button",
+    "id": "closePassportModalBtn"
+  },
+  {
+    "tag": "div",
+    "id": "printableTagCard"
+  },
+  {
+    "tag": "span",
+    "id": "passportOrgName"
+  },
+  {
+    "tag": "span",
+    "id": "passportTagTypeBadge"
+  },
+  {
+    "tag": "div",
+    "id": "passportQrContainer"
+  },
+  {
+    "tag": "div",
+    "id": "passportTagId"
+  },
+  {
+    "tag": "div",
+    "id": "passportTagName"
+  },
+  {
+    "tag": "div",
+    "id": "passportTagCategory"
+  },
+  {
+    "tag": "span",
+    "id": "passportTagFooterMeta"
+  },
+  {
+    "tag": "span",
+    "id": "passportStatusBadge"
+  },
+  {
+    "tag": "h2",
+    "id": "passportNameDisplay"
+  },
+  {
+    "tag": "p",
+    "id": "passportCategoryDisplay"
+  },
+  {
+    "tag": "div",
+    "id": "passportSpecsGrid"
+  },
+  {
+    "tag": "div",
+    "id": "passportAdditionalActions"
+  },
+  {
+    "tag": "button",
+    "id": "passportDeleteBtn"
+  },
+  {
+    "tag": "button",
+    "id": "passportEditBtn"
+  },
+  {
+    "tag": "button",
+    "id": "passportDownloadPngBtn"
+  },
+  {
+    "tag": "button",
+    "id": "passportPrintTagBtn"
+  },
+  {
+    "tag": "div",
+    "id": "categoryModal"
+  },
+  {
+    "tag": "h3",
+    "id": "categoryModalTitle"
+  },
+  {
+    "tag": "button",
+    "id": "closeCategoryModalBtn"
+  },
+  {
+    "tag": "form",
+    "id": "categoryModalForm"
+  },
+  {
+    "tag": "input",
+    "id": "categoryFormMode"
+  },
+  {
+    "tag": "input",
+    "id": "categoryFormOriginalId"
+  },
+  {
+    "tag": "select",
+    "id": "inputCategoryType"
+  },
+  {
+    "tag": "input",
+    "id": "inputCategoryName"
+  },
+  {
+    "tag": "div",
+    "id": "errorCategoryName"
+  },
+  {
+    "tag": "input",
+    "id": "inputCategoryPrefix"
+  },
+  {
+    "tag": "div",
+    "id": "errorCategoryPrefix"
+  },
+  {
+    "tag": "textarea",
+    "id": "inputCategoryDesc"
+  },
+  {
+    "tag": "button",
+    "id": "cancelCategoryModalBtn"
+  },
+  {
+    "tag": "div",
+    "id": "maintenanceModal"
+  },
+  {
+    "tag": "h3",
+    "id": "maintenanceModalTitle"
+  },
+  {
+    "tag": "button",
+    "id": "closeMaintenanceModalBtn"
+  },
+  {
+    "tag": "form",
+    "id": "maintenanceModalForm"
+  },
+  {
+    "tag": "input",
+    "id": "maintenanceFormMode"
+  },
+  {
+    "tag": "input",
+    "id": "maintenanceFormId"
+  },
+  {
+    "tag": "select",
+    "id": "inputMaintDevice"
+  },
+  {
+    "tag": "div",
+    "id": "errorMaintDevice"
+  },
+  {
+    "tag": "input",
+    "id": "inputMaintTitle"
+  },
+  {
+    "tag": "div",
+    "id": "errorMaintTitle"
+  },
+  {
+    "tag": "select",
+    "id": "inputMaintType"
+  },
+  {
+    "tag": "select",
+    "id": "inputMaintStatus"
+  },
+  {
+    "tag": "input",
+    "id": "inputMaintScheduledDate"
+  },
+  {
+    "tag": "input",
+    "id": "inputMaintCompletedDate"
+  },
+  {
+    "tag": "input",
+    "id": "inputMaintCost"
+  },
+  {
+    "tag": "input",
+    "id": "inputMaintTechnician"
+  },
+  {
+    "tag": "textarea",
+    "id": "inputMaintNotes"
+  },
+  {
+    "tag": "button",
+    "id": "cancelMaintenanceModalBtn"
+  },
+  {
+    "tag": "div",
+    "id": "confirmModal"
+  },
+  {
+    "tag": "h3",
+    "id": "confirmModalTitle"
+  },
+  {
+    "tag": "button",
+    "id": "closeConfirmModalBtn"
+  },
+  {
+    "tag": "p",
+    "id": "confirmModalMessage"
+  },
+  {
+    "tag": "button",
+    "id": "confirmModalCancelBtn"
+  },
+  {
+    "tag": "button",
+    "id": "confirmModalOkBtn"
+  },
+  {
+    "tag": "div",
+    "id": "printableTagSheet"
+  },
+  {
+    "tag": "div",
+    "id": "toastContainer"
+  },
+  {
+    "tag": "div",
+    "id": "toastContainer"
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "line": 845,
+    "code": "toast.querySelector(\".toast-close-btn\").addEventListener(\"click\", () => removeToast(toast));"
+  },
+  {
+    "line": 875,
+    "code": "document.getElementById(\"confirmModalOkBtn\")?.addEventListener(\"click\", function () {"
+  },
+  {
+    "line": 880,
+    "code": "document.getElementById(\"confirmModalCancelBtn\")?.addEventListener(\"click\", closeConfirmModal);"
+  },
+  {
+    "line": 881,
+    "code": "document.getElementById(\"closeConfirmModalBtn\")?.addEventListener(\"click\", closeConfirmModal);"
+  },
+  {
+    "line": 1245,
+    "code": "elements.startBtn.addEventListener(\"click\", startScanner);"
+  },
+  {
+    "line": 1246,
+    "code": "elements.stopBtn.addEventListener(\"click\", stopScanner);"
+  },
+  {
+    "line": 1249,
+    "code": "elements.fileDropzone.addEventListener(\"click\", () => elements.fileInput.click());"
+  },
+  {
+    "line": 1250,
+    "code": "elements.fileInput.addEventListener(\"change\", handleFileScan);"
+  },
+  {
+    "line": 1252,
+    "code": "elements.fileDropzone.addEventListener(\"dragover\", (e) => {"
+  },
+  {
+    "line": 1256,
+    "code": "elements.fileDropzone.addEventListener(\"dragleave\", () => {"
+  },
+  {
+    "line": 1259,
+    "code": "elements.fileDropzone.addEventListener(\"drop\", (e) => {"
+  },
+  {
+    "line": 1651,
+    "code": "link.addEventListener(\"click\", function (e) {"
+  },
+  {
+    "line": 1659,
+    "code": "document.getElementById(\"topbarScanBtn\")?.addEventListener(\"click\", () => switchTab(\"scanner\"));"
+  },
+  {
+    "line": 1660,
+    "code": "document.getElementById(\"topbarAddBtn\")?.addEventListener(\"click\", () => openAddDeviceModal());"
+  },
+  {
+    "line": 1661,
+    "code": "document.getElementById(\"topbarStockMovementBtn\")?.addEventListener(\"click\", () => openStockMovementModal());"
+  },
+  {
+    "line": 1663,
+    "code": "document.getElementById(\"themeToggleBtn\")?.addEventListener(\"click\", toggleTheme);"
+  },
+  {
+    "line": 1715,
+    "code": "btn?.addEventListener(\"click\", () => {"
+  },
+  {
+    "line": 1720,
+    "code": "overlay?.addEventListener(\"click\", closeMobileSidebar);"
+  },
+  {
+    "line": 1748,
+    "code": "document.getElementById(\"dashViewAllDevicesBtn\")?.addEventListener(\"click\", () => switchTab(\"devices\"));"
+  },
+  {
+    "line": 1749,
+    "code": "document.getElementById(\"dashViewAllStockBtn\")?.addEventListener(\"click\", () => switchTab(\"stock\"));"
+  },
+  {
+    "line": 1750,
+    "code": "document.getElementById(\"dashViewAllTxnsBtn\")?.addEventListener(\"click\", () => switchTab(\"transactions\"));"
+  },
+  {
+    "line": 1751,
+    "code": "document.getElementById(\"dashViewAllActivityBtn\")?.addEventListener(\"click\", () => switchTab(\"activity\"));"
+  },
+  {
+    "line": 1752,
+    "code": "document.getElementById(\"dashAddDeviceBtn\")?.addEventListener(\"click\", () => openAddDeviceModal());"
+  },
+  {
+    "line": 1753,
+    "code": "document.getElementById(\"dashAddStockBtn\")?.addEventListener(\"click\", () => openAddStockModal());"
+  },
+  {
+    "line": 1754,
+    "code": "document.getElementById(\"dashOpenScannerBtn\")?.addEventListener(\"click\", () => switchTab(\"scanner\"));"
+  },
+  {
+    "line": 1755,
+    "code": "document.getElementById(\"dashPerformStockMovementBtn\")?.addEventListener(\"click\", () => openStockMovementModal());"
+  },
+  {
+    "line": 1756,
+    "code": "document.getElementById(\"dashScheduleMaintBtn\")?.addEventListener(\"click\", () => openMaintenanceModal());"
+  },
+  {
+    "line": 1757,
+    "code": "document.getElementById(\"dashQuickStockInBtn\")?.addEventListener(\"click\", () => openStockMovementModal(null, \"Stock-In\"));"
+  },
+  {
+    "line": 1944,
+    "code": "searchInput?.addEventListener(\"input\", function () {"
+  },
+  {
+    "line": 1951,
+    "code": "clearBtn?.addEventListener(\"click\", () => {"
+  },
+  {
+    "line": 1958,
+    "code": "catSelect?.addEventListener(\"change\", function () { deviceFilters.category = this.value; renderDevices(); });"
+  },
+  {
+    "line": 1959,
+    "code": "statusSelect?.addEventListener(\"change\", function () { deviceFilters.status = this.value; renderDevices(); });"
+  },
+  {
+    "line": 1960,
+    "code": "condSelect?.addEventListener(\"change\", function () { deviceFilters.condition = this.value; renderDevices(); });"
+  },
+  {
+    "line": 1961,
+    "code": "sortSelect?.addEventListener(\"change\", function () { deviceFilters.sort = this.value; renderDevices(); });"
+  },
+  {
+    "line": 1963,
+    "code": "resetBtn?.addEventListener(\"click\", () => {"
+  },
+  {
+    "line": 1974,
+    "code": "document.getElementById(\"deviceAddBtn\")?.addEventListener(\"click\", openAddDeviceModal);"
+  },
+  {
+    "line": 1975,
+    "code": "document.getElementById(\"deviceEmptyAddBtn\")?.addEventListener(\"click\", openAddDeviceModal);"
+  },
+  {
+    "line": 1976,
+    "code": "document.getElementById(\"deviceExportBtn\")?.addEventListener(\"click\", exportDevicesCSV);"
+  },
+  {
+    "line": 2084,
+    "code": "closeBtn?.addEventListener(\"click\", closeDeviceModal);"
+  },
+  {
+    "line": 2085,
+    "code": "cancelBtn?.addEventListener(\"click\", closeDeviceModal);"
+  },
+  {
+    "line": 2087,
+    "code": "catSelect?.addEventListener(\"change\", function () {"
+  },
+  {
+    "line": 2094,
+    "code": "regenBtn?.addEventListener(\"click\", function () {"
+  },
+  {
+    "line": 2103,
+    "code": "form?.addEventListener(\"submit\", function (e) {"
+  },
+  {
+    "line": 2367,
+    "code": "searchInput?.addEventListener(\"input\", function () {"
+  },
+  {
+    "line": 2374,
+    "code": "clearBtn?.addEventListener(\"click\", () => {"
+  },
+  {
+    "line": 2381,
+    "code": "catSelect?.addEventListener(\"change\", function () { stockFilters.category = this.value; renderStock(); });"
+  },
+  {
+    "line": 2382,
+    "code": "levelSelect?.addEventListener(\"change\", function () { stockFilters.level = this.value; renderStock(); });"
+  },
+  {
+    "line": 2383,
+    "code": "sortSelect?.addEventListener(\"change\", function () { stockFilters.sort = this.value; renderStock(); });"
+  },
+  {
+    "line": 2385,
+    "code": "resetBtn?.addEventListener(\"click\", () => {"
+  },
+  {
+    "line": 2395,
+    "code": "document.getElementById(\"stockAddBtn\")?.addEventListener(\"click\", openAddStockModal);"
+  },
+  {
+    "line": 2396,
+    "code": "document.getElementById(\"stockEmptyAddBtn\")?.addEventListener(\"click\", openAddStockModal);"
+  },
+  {
+    "line": 2397,
+    "code": "document.getElementById(\"stockRecordMovementBtn\")?.addEventListener(\"click\", () => openStockMovementModal());"
+  },
+  {
+    "line": 2398,
+    "code": "document.getElementById(\"stockExportBtn\")?.addEventListener(\"click\", exportStockCSV);"
+  },
+  {
+    "line": 2513,
+    "code": "closeBtn?.addEventListener(\"click\", closeStockModal);"
+  },
+  {
+    "line": 2514,
+    "code": "cancelBtn?.addEventListener(\"click\", closeStockModal);"
+  },
+  {
+    "line": 2516,
+    "code": "catSelect?.addEventListener(\"change\", function () {"
+  },
+  {
+    "line": 2523,
+    "code": "regenBtn?.addEventListener(\"click\", function () {"
+  },
+  {
+    "line": 2532,
+    "code": "form?.addEventListener(\"submit\", function (e) {"
+  },
+  {
+    "line": 2769,
+    "code": "closeBtn?.addEventListener(\"click\", closeStockMovementModal);"
+  },
+  {
+    "line": 2770,
+    "code": "cancelBtn?.addEventListener(\"click\", closeStockMovementModal);"
+  },
+  {
+    "line": 2772,
+    "code": "itemSelect?.addEventListener(\"change\", updateMovementPreview);"
+  },
+  {
+    "line": 2773,
+    "code": "typeSelect?.addEventListener(\"change\", updateMovementPreview);"
+  },
+  {
+    "line": 2774,
+    "code": "qtyInput?.addEventListener(\"input\", updateMovementPreview);"
+  },
+  {
+    "line": 2776,
+    "code": "form?.addEventListener(\"submit\", function (e) {"
+  },
+  {
+    "line": 2903,
+    "code": "searchInput?.addEventListener(\"input\", function () {"
+  },
+  {
+    "line": 2908,
+    "code": "typeSelect?.addEventListener(\"change\", function () {"
+  },
+  {
+    "line": 2913,
+    "code": "document.getElementById(\"transactionsNewMovementBtn\")?.addEventListener(\"click\", () => openStockMovementModal());"
+  },
+  {
+    "line": 2914,
+    "code": "document.getElementById(\"transactionsExportBtn\")?.addEventListener(\"click\", exportTransactionsCSV);"
+  },
+  {
+    "line": 3002,
+    "code": "document.getElementById(\"maintenanceAddBtn\")?.addEventListener(\"click\", () => openMaintenanceModal());"
+  },
+  {
+    "line": 3003,
+    "code": "document.getElementById(\"maintenanceEmptyAddBtn\")?.addEventListener(\"click\", () => openMaintenanceModal());"
+  },
+  {
+    "line": 3009,
+    "code": "searchInput?.addEventListener(\"input\", function () {"
+  },
+  {
+    "line": 3014,
+    "code": "statusFilter?.addEventListener(\"change\", function () {"
+  },
+  {
+    "line": 3019,
+    "code": "typeFilter?.addEventListener(\"change\", function () {"
+  },
+  {
+    "line": 3100,
+    "code": "closeBtn?.addEventListener(\"click\", closeMaintenanceModal);"
+  },
+  {
+    "line": 3101,
+    "code": "cancelBtn?.addEventListener(\"click\", closeMaintenanceModal);"
+  },
+  {
+    "line": 3103,
+    "code": "form?.addEventListener(\"submit\", function (e) {"
+  },
+  {
+    "line": 3238,
+    "code": "document.getElementById(\"segmentDeviceCatsBtn\")?.addEventListener(\"click\", function () {"
+  },
+  {
+    "line": 3245,
+    "code": "document.getElementById(\"segmentStockCatsBtn\")?.addEventListener(\"click\", function () {"
+  },
+  {
+    "line": 3252,
+    "code": "document.getElementById(\"categoryAddBtn\")?.addEventListener(\"click\", () => openAddCategoryModal(activeCategorySegment));"
+  },
+  {
+    "line": 3296,
+    "code": "closeBtn?.addEventListener(\"click\", closeCategoryModal);"
+  },
+  {
+    "line": 3297,
+    "code": "cancelBtn?.addEventListener(\"click\", closeCategoryModal);"
+  },
+  {
+    "line": 3299,
+    "code": "form?.addEventListener(\"submit\", function (e) {"
+  },
+  {
+    "line": 3393,
+    "code": "searchInput?.addEventListener(\"input\", function () {"
+  },
+  {
+    "line": 3398,
+    "code": "typeSelect?.addEventListener(\"change\", function () {"
+  },
+  {
+    "line": 3403,
+    "code": "document.getElementById(\"activityClearBtn\")?.addEventListener(\"click\", () => {"
+  },
+  {
+    "line": 3415,
+    "code": "document.getElementById(\"activityExportBtn\")?.addEventListener(\"click\", exportActivityCSV);"
+  },
+  {
+    "line": 3501,
+    "code": "generalForm?.addEventListener(\"submit\", function (e) {"
+  },
+  {
+    "line": 3517,
+    "code": "scannerForm?.addEventListener(\"submit\", function (e) {"
+  },
+  {
+    "line": 3528,
+    "code": "document.getElementById(\"exportBackupBtn\")?.addEventListener(\"click\", () => {"
+  },
+  {
+    "line": 3542,
+    "code": "importBtn?.addEventListener(\"click\", () => importInput.click());"
+  },
+  {
+    "line": 3544,
+    "code": "importInput?.addEventListener(\"change\", function (e) {"
+  },
+  {
+    "line": 3563,
+    "code": "document.getElementById(\"resetDemoDataBtn\")?.addEventListener(\"click\", () => {"
+  },
+  {
+    "line": 3576,
+    "code": "document.getElementById(\"wipeAllDataBtn\")?.addEventListener(\"click\", () => {"
+  },
+  {
+    "line": 3680,
+    "code": "document.addEventListener(\"DOMContentLoaded\", function () {"
+  },
+  {
+    "line": 3685,
+    "code": "manualForm?.addEventListener(\"submit\", function (e) {"
+  }
+]

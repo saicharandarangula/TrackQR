@@ -1,0 +1,38 @@
+[
+  {
+    "target": "startBtn",
+    "event": "click"
+  },
+  {
+    "target": "stopBtn",
+    "event": "click"
+  },
+  {
+    "target": "fileDropzone",
+    "event": "click"
+  },
+  {
+    "target": "fileInput",
+    "event": "change"
+  },
+  {
+    "target": "fileDropzone",
+    "event": "dragover"
+  },
+  {
+    "target": "fileDropzone",
+    "event": "dragleave"
+  },
+  {
+    "target": "fileDropzone",
+    "event": "drop"
+  },
+  {
+    "target": "link",
+    "event": "click"
+  },
+  {
+    "target": "document",
+    "event": "DOMContentLoaded"
+  }
+]

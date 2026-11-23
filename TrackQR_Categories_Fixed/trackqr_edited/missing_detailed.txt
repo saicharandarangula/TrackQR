@@ -1,0 +1,149 @@
+scannedDevId                     line 1470: document.getElementById("scannedDevId").textContent = device.id;
+scannedDevName                   line 1471: document.getElementById("scannedDevName").textContent = device.name;
+scannedDevCategory               line 1472: document.getElementById("scannedDevCategory").textContent = device.category
+scannedDevCondition              line 1473: document.getElementById("scannedDevCondition").textContent = device.conditi
+scannedDevLocation               line 1474: document.getElementById("scannedDevLocation").textContent = device.location
+scannedDevAssigned               line 1475: document.getElementById("scannedDevAssigned").textContent = device.assigned
+scannedDevSerial                 line 1476: document.getElementById("scannedDevSerial").textContent = device.serial || 
+scannedDevStatus                 line 1478: const statusPill = document.getElementById("scannedDevStatus");
+scannedDevMaintList              line 1484: const maintContainer = document.getElementById("scannedDevMaintList");
+scanDevViewFullBtn               line 1501: document.getElementById("scanDevViewFullBtn").onclick = () => App.openDevic
+scanDevAddMaintBtn               line 1502: document.getElementById("scanDevAddMaintBtn").onclick = () => App.openMaint
+scannedStkId                     line 1517: document.getElementById("scannedStkId").textContent = stock.id;
+scannedStkName                   line 1518: document.getElementById("scannedStkName").textContent = stock.name;
+scannedStkCategory               line 1519: document.getElementById("scannedStkCategory").textContent = stock.category;
+scannedStkQty                    line 1520: document.getElementById("scannedStkQty").textContent = stock.quantity;
+scannedStkUnit                   line 1521: document.getElementById("scannedStkUnit").textContent = stock.unit;
+scannedStkMinLevel               line 1522: document.getElementById("scannedStkMinLevel").textContent = `${stock.minLev
+scannedStkLocation               line 1523: document.getElementById("scannedStkLocation").textContent = stock.location;
+scannedStkPrice                  line 1524: document.getElementById("scannedStkPrice").textContent = formatCurrency(sto
+scannedStkStatus                 line 1526: const statusPill = document.getElementById("scannedStkStatus");
+scanStkQuickInBtn                line 1539: document.getElementById("scanStkQuickInBtn").onclick = () => App.openStockM
+scanStkQuickOutBtn               line 1540: document.getElementById("scanStkQuickOutBtn").onclick = () => App.openStock
+scanStkQuickReturnBtn            line 1541: document.getElementById("scanStkQuickReturnBtn").onclick = () => App.openSt
+scanStkViewHistoryBtn            line 1542: document.getElementById("scanStkViewHistoryBtn").onclick = () => App.openSt
+unknownRegisterDevBtn            line 1561: document.getElementById("unknownRegisterDevBtn").onclick = () => App.openAd
+unknownRegisterStkBtn            line 1562: document.getElementById("unknownRegisterStkBtn").onclick = () => App.openAd
+topbarAddBtn                     line 1660: document.getElementById("topbarAddBtn")?.addEventListener("click", () => op
+dashViewAllDevicesBtn            line 1748: document.getElementById("dashViewAllDevicesBtn")?.addEventListener("click",
+dashViewAllStockBtn              line 1749: document.getElementById("dashViewAllStockBtn")?.addEventListener("click", (
+dashViewAllTxnsBtn               line 1750: document.getElementById("dashViewAllTxnsBtn")?.addEventListener("click", ()
+dashAddStockBtn                  line 1753: document.getElementById("dashAddStockBtn")?.addEventListener("click", () =>
+dashPerformStockMovementBtn      line 1755: document.getElementById("dashPerformStockMovementBtn")?.addEventListener("c
+dashScheduleMaintBtn             line 1756: document.getElementById("dashScheduleMaintBtn")?.addEventListener("click", 
+dashQuickStockInBtn              line 1757: document.getElementById("dashQuickStockInBtn")?.addEventListener("click", (
+dashAvailableDevices             line 1776: document.getElementById("dashAvailableDevices").textContent = availDevs;
+dashTotalStockSkus               line 1786: document.getElementById("dashTotalStockSkus").textContent = totalStockSkus;
+dashTotalStockQuantity           line 1787: document.getElementById("dashTotalStockQuantity").textContent = totalStockQ
+dashLowStockCount                line 1788: document.getElementById("dashLowStockCount").textContent = lowStockItems.le
+dashOutOfStockCount              line 1789: document.getElementById("dashOutOfStockCount").textContent = outOfStockItem
+navDeviceCount                   line 1792: document.getElementById("navDeviceCount").textContent = totalDevs;
+navStockItemCount                line 1793: document.getElementById("navStockItemCount").textContent = totalStockSkus;
+dashStockAlertsContainer         line 1798: const alertContainer = document.getElementById("dashStockAlertsContainer");
+dashRecentDevicesTable           line 1832: const devTable = document.getElementById("dashRecentDevicesTable");
+dashStockOverviewTable           line 1859: const stockTable = document.getElementById("dashStockOverviewTable");
+dashStockMovementsList           line 1897: const movesList = document.getElementById("dashStockMovementsList");
+filterDeviceCategory             line 1938: const catSelect = document.getElementById("filterDeviceCategory");
+filterDeviceStatus               line 1939: const statusSelect = document.getElementById("filterDeviceStatus");
+filterDeviceCondition            line 1940: const condSelect = document.getElementById("filterDeviceCondition");
+filterDeviceSort                 line 1941: const sortSelect = document.getElementById("filterDeviceSort");
+filterDeviceResetBtn             line 1942: const resetBtn = document.getElementById("filterDeviceResetBtn");
+inputDevCategory                 line 2081: const catSelect = document.getElementById("inputDevCategory");
+regenerateDevIdBtn               line 2082: const regenBtn = document.getElementById("regenerateDevIdBtn");
+inputDevId                       line 2090: document.getElementById("inputDevId").value = generateNextDeviceId(this.val
+inputDevName                     line 2109: const name = document.getElementById("inputDevName").value.trim();
+inputDevSerial                   line 2111: const serial = document.getElementById("inputDevSerial").value.trim();
+inputDevCondition                line 2112: const condition = document.getElementById("inputDevCondition").value;
+inputDevStatus                   line 2113: const status = document.getElementById("inputDevStatus").value;
+inputDevLocation                 line 2114: const location = document.getElementById("inputDevLocation").value.trim();
+inputDevPurchaseDate             line 2115: const purchaseDate = document.getElementById("inputDevPurchaseDate").value;
+inputDevAssigned                 line 2116: const assignedTo = document.getElementById("inputDevAssigned").value.trim()
+inputDevDept                     line 2117: const department = document.getElementById("inputDevDept").value.trim();
+inputDevCost                     line 2118: const cost = parseFloat(document.getElementById("inputDevCost").value) || 0
+inputDevNotes                    line 2119: const notes = document.getElementById("inputDevNotes").value.trim();
+errorDevId                       line 2128: document.getElementById("errorDevId").textContent = "Asset ID already exist
+deviceDetailsModal               line 2261: const modal = document.getElementById("deviceDetailsModal");
+devTagOrgName                    line 2265: document.getElementById("devTagOrgName").textContent = settings.orgName;
+devTagAssetId                    line 2266: document.getElementById("devTagAssetId").textContent = dev.id;
+devTagDeviceName                 line 2267: document.getElementById("devTagDeviceName").textContent = dev.name;
+devTagCategory                   line 2268: document.getElementById("devTagCategory").textContent = dev.category;
+devDetailsQrBox                  line 2270: QrController.renderQrCode(document.getElementById("devDetailsQrBox"), dev.i
+devDetailsNameDisplay            line 2273: document.getElementById("devDetailsNameDisplay").textContent = dev.name;
+devDetailsCategoryDisplay        line 2274: document.getElementById("devDetailsCategoryDisplay").textContent = dev.cate
+devDetailsIdDisplay              line 2275: document.getElementById("devDetailsIdDisplay").textContent = dev.id;
+devDetailsSerialDisplay          line 2276: document.getElementById("devDetailsSerialDisplay").textContent = dev.serial
+devDetailsLocationDisplay        line 2277: document.getElementById("devDetailsLocationDisplay").textContent = dev.loca
+devDetailsAssignedDisplay        line 2278: document.getElementById("devDetailsAssignedDisplay").textContent = dev.assi
+devDetailsDateDisplay            line 2279: document.getElementById("devDetailsDateDisplay").textContent = formatDate(d
+devDetailsCostDisplay            line 2280: document.getElementById("devDetailsCostDisplay").textContent = formatCurren
+devDetailsNotesDisplay           line 2281: document.getElementById("devDetailsNotesDisplay").textContent = dev.notes |
+devDetailsStatusBadge            line 2283: const statusBadge = document.getElementById("devDetailsStatusBadge");
+devDetailsConditionBadge         line 2287: const condBadge = document.getElementById("devDetailsConditionBadge");
+devDetailsMaintTableBody         line 2292: const maintTbody = document.getElementById("devDetailsMaintTableBody");
+closeDeviceDetailsModalBtn       line 2311: document.getElementById("closeDeviceDetailsModalBtn").onclick = closeDevice
+devDetailsDownloadPngBtn         line 2312: document.getElementById("devDetailsDownloadPngBtn").onclick = () => QrContr
+devDetailsPrintTagBtn            line 2313: document.getElementById("devDetailsPrintTagBtn").onclick = () => QrControll
+devDetailsEditBtn                line 2314: document.getElementById("devDetailsEditBtn").onclick = () => { closeDeviceD
+devDetailsDeleteBtn              line 2315: document.getElementById("devDetailsDeleteBtn").onclick = () => { closeDevic
+devDetailsAddMaintBtn            line 2316: document.getElementById("devDetailsAddMaintBtn").onclick = () => { closeDev
+filterStockCategory              line 2362: const catSelect = document.getElementById("filterStockCategory");
+filterStockLevel                 line 2363: const levelSelect = document.getElementById("filterStockLevel");
+filterStockSort                  line 2364: const sortSelect = document.getElementById("filterStockSort");
+filterStockResetBtn              line 2365: const resetBtn = document.getElementById("filterStockResetBtn");
+stockRecordMovementBtn           line 2397: document.getElementById("stockRecordMovementBtn")?.addEventListener("click"
+inputStkCategory                 line 2510: const catSelect = document.getElementById("inputStkCategory");
+regenerateStkIdBtn               line 2511: const regenBtn = document.getElementById("regenerateStkIdBtn");
+inputStkId                       line 2519: document.getElementById("inputStkId").value = generateNextStockId(this.valu
+inputStkName                     line 2538: const name = document.getElementById("inputStkName").value.trim();
+inputStkUnit                     line 2540: const unit = document.getElementById("inputStkUnit").value;
+inputStkQuantity                 line 2541: const quantity = parseInt(document.getElementById("inputStkQuantity").value
+inputStkMinLevel                 line 2542: const minLevel = parseInt(document.getElementById("inputStkMinLevel").value
+inputStkLocation                 line 2543: const location = document.getElementById("inputStkLocation").value.trim();
+inputStkUnitPrice                line 2544: const unitPrice = parseFloat(document.getElementById("inputStkUnitPrice").v
+inputStkSupplier                 line 2545: const supplier = document.getElementById("inputStkSupplier").value.trim();
+inputStkNotes                    line 2546: const notes = document.getElementById("inputStkNotes").value.trim();
+errorStkId                       line 2555: document.getElementById("errorStkId").textContent = "Stock Item ID already 
+stockDetailsModal                line 2685: const modal = document.getElementById("stockDetailsModal");
+stkTagOrgName                    line 2689: document.getElementById("stkTagOrgName").textContent = settings.orgName;
+stkTagItemId                     line 2690: document.getElementById("stkTagItemId").textContent = item.id;
+stkTagItemName                   line 2691: document.getElementById("stkTagItemName").textContent = item.name;
+stkTagCategory                   line 2692: document.getElementById("stkTagCategory").textContent = item.category;
+stockDetailsQrBox                line 2694: QrController.renderQrCode(document.getElementById("stockDetailsQrBox"), ite
+stkDetailsNameDisplay            line 2697: document.getElementById("stkDetailsNameDisplay").textContent = item.name;
+stkDetailsCategoryDisplay        line 2698: document.getElementById("stkDetailsCategoryDisplay").textContent = item.cat
+stkDetailsQtyDisplay             line 2699: document.getElementById("stkDetailsQtyDisplay").textContent = `${item.quant
+stkDetailsMinDisplay             line 2700: document.getElementById("stkDetailsMinDisplay").textContent = `${item.minLe
+stkDetailsIdDisplay              line 2701: document.getElementById("stkDetailsIdDisplay").textContent = item.id;
+stkDetailsLocationDisplay        line 2702: document.getElementById("stkDetailsLocationDisplay").textContent = item.loc
+stkDetailsPriceDisplay           line 2703: document.getElementById("stkDetailsPriceDisplay").textContent = formatCurre
+stkDetailsValuationDisplay       line 2705: document.getElementById("stkDetailsValuationDisplay").textContent = formatC
+stkDetailsLevelBadge             line 2707: const levelBadge = document.getElementById("stkDetailsLevelBadge");
+stkDetailsTxnTableBody           line 2721: const txnTbody = document.getElementById("stkDetailsTxnTableBody");
+closeStockDetailsModalBtn        line 2740: document.getElementById("closeStockDetailsModalBtn").onclick = closeStockDe
+stkDetailsDownloadPngBtn         line 2741: document.getElementById("stkDetailsDownloadPngBtn").onclick = () => QrContr
+stkDetailsPrintTagBtn            line 2742: document.getElementById("stkDetailsPrintTagBtn").onclick = () => QrControll
+stkDetailsEditBtn                line 2743: document.getElementById("stkDetailsEditBtn").onclick = () => { closeStockDe
+stkDetailsDeleteBtn              line 2744: document.getElementById("stkDetailsDeleteBtn").onclick = () => { closeStock
+stkModalStockInBtn               line 2747: document.getElementById("stkModalStockInBtn").onclick = () => { closeStockD
+stkModalStockOutBtn              line 2748: document.getElementById("stkModalStockOutBtn").onclick = () => { closeStock
+stkModalReturnBtn                line 2749: document.getElementById("stkModalReturnBtn").onclick = () => { closeStockDe
+stockMovementForm                line 2762: const form = document.getElementById("stockMovementForm");
+closeStockMovementModalBtn       line 2763: const closeBtn = document.getElementById("closeStockMovementModalBtn");
+cancelStockMovementModalBtn      line 2764: const cancelBtn = document.getElementById("cancelStockMovementModalBtn");
+moveItemSelect                   line 2765: const itemSelect = document.getElementById("moveItemSelect");
+moveTypeSelect                   line 2766: const typeSelect = document.getElementById("moveTypeSelect");
+moveQuantityInput                line 2767: const qtyInput = document.getElementById("moveQuantityInput");
+moveReferenceInput               line 2782: const reference = document.getElementById("moveReferenceInput").value.trim(
+moveNotesInput                   line 2783: const notes = document.getElementById("moveNotesInput").value.trim();
+errorMoveQuantity                line 2803: document.getElementById("errorMoveQuantity").textContent = err.message;
+moveCurrentQtyDisplay            line 2818: document.getElementById("moveCurrentQtyDisplay").textContent = "0 pcs";
+moveProjectedQtyDisplay          line 2819: document.getElementById("moveProjectedQtyDisplay").textContent = "0 pcs";
+txnSearchInput                   line 2900: const searchInput = document.getElementById("txnSearchInput");
+filterTxnType                    line 2901: const typeSelect = document.getElementById("filterTxnType");
+transactionsNewMovementBtn       line 2913: document.getElementById("transactionsNewMovementBtn")?.addEventListener("cl
+transactionsExportBtn            line 2914: document.getElementById("transactionsExportBtn")?.addEventListener("click",
+txnEmptyState                    line 2920: const emptyState = document.getElementById("txnEmptyState");
+segmentDeviceCatsBtn             line 3238: document.getElementById("segmentDeviceCatsBtn")?.addEventListener("click", 
+segmentStockCatsBtn              line 3241: document.getElementById("segmentStockCatsBtn").classList.remove("active");
+categoryFormOriginalPrefix       line 3339: document.getElementById("categoryFormOriginalPrefix").value = "";
+settingDefaultLowStock           line 3505: const defaultLowStock = parseInt(document.getElementById("settingDefaultLow
